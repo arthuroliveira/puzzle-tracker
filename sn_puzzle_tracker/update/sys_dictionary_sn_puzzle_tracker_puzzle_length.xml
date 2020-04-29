@@ -3,13 +3,13 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Length (cm)</column_label>
+        <column_label>Length</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-04-29 04:40:09</sys_created_on>
-        <sys_id>d3b5e99c072010106b65b0027cd30027</sys_id>
+        <sys_id>310ee154076010106b65b0027cd30051</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Length (cm)</sys_name>
+        <sys_name>Length</sys_name>
         <sys_package display_value="Puzzle Tracker" source="sn_puzzle_tracker">e9d45554072010106b65b0027cd30010</sys_package>
         <sys_policy/>
         <sys_scope display_value="Puzzle Tracker">e9d45554072010106b65b0027cd30010</sys_scope>
         <sys_update_name>sys_dictionary_sn_puzzle_tracker_puzzle_length</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-04-29 05:43:59</sys_updated_on>
+        <sys_updated_on>2020-04-29 06:21:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
