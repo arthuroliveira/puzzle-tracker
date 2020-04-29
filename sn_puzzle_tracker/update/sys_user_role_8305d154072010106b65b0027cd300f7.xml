@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>sn_puzzle_tracker.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>sn_puzzle_tracker.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 04:31:04</sys_created_on>
+        <sys_id>8305d154072010106b65b0027cd300f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_puzzle_tracker.user</sys_name>
+        <sys_package display_value="Puzzle Tracker" source="sn_puzzle_tracker">e9d45554072010106b65b0027cd30010</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">e9d45554072010106b65b0027cd30010</sys_scope>
+        <sys_update_name>sys_user_role_8305d154072010106b65b0027cd300f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 04:31:04</sys_updated_on>
+    </sys_user_role>
+</record_update>

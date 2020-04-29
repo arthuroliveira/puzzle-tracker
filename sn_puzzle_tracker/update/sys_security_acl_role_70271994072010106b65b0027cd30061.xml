@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 04:40:11</sys_created_on>
+        <sys_id>70271994072010106b65b0027cd30061</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_puzzle_tracker_puzzle.sn_puzzle_tracker.user</sys_name>
+        <sys_package display_value="Puzzle Tracker" source="sn_puzzle_tracker">e9d45554072010106b65b0027cd30010</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">e9d45554072010106b65b0027cd30010</sys_scope>
+        <sys_security_acl display_value="sn_puzzle_tracker_puzzle">74271994072010106b65b0027cd3005e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_70271994072010106b65b0027cd30061</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 04:40:11</sys_updated_on>
+        <sys_user_role display_value="sn_puzzle_tracker.user" name="sn_puzzle_tracker.user">8305d154072010106b65b0027cd300f7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
